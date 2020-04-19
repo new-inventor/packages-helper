@@ -1,5 +1,5 @@
 {
-  "name": "@new-inventor/package_helper",
+  "name": "@new-inventor/packages-helper",
   "version": "1.0.0",
   "description": "Helper for publishing and compiling packages",
   "bin": {
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/new-inventor/package_helper"
+    "url": "https://github.com/new-inventor/packages-helper"
   },
   "author": "George Ionov <newinventor20@gmail.com>",
   "license": "MIT",
   "private": false,
   "bugs": {
-    "url": "https://github.com/new-inventor/package_helper/issues"
+    "url": "https://github.com/new-inventor/packages-helper/issues"
   },
-  "homepage": "https://github.com/new-inventor/package_helper#readme",
+  "homepage": "https://github.com/new-inventor/packages-helper#readme",
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
