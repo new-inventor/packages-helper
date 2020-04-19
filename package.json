@@ -1,0 +1,29 @@
+{
+  "name": "@new-inventor/package_helper",
+  "version": "1.0.0",
+  "description": "Helper for publishing and compiling packages",
+  "bin": {
+    "clear": "./bin/clear.js",
+    "copy_files": "./bin/copy_files.js",
+    "pack": "./bin/pack.js",
+    "version": "./bin/version.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/new-inventor/package_helper"
+  },
+  "author": "George Ionov <newinventor20@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/new-inventor/package_helper/issues"
+  },
+  "homepage": "https://github.com/new-inventor/package_helper#readme",
+  "devDependencies": {
+    "rimraf": "^3.0.2"
+  },
+  "files": [
+    "./bin/*",
+    "*"
+  ]
+}
